@@ -125,17 +125,7 @@ Users are responsible for complying with applicable laws and respecting API usag
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome. Please open an issue to discuss proposed changes before submitting a pull request.
-
----
-
-## 📜 License
-
-MIT License (recommended for open-source collaboration).
-
----
 
 ## Version
 
