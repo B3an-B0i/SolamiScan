@@ -52,7 +52,7 @@ Solamiscan aims to provide accessible wallet intelligence tools without requirin
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/solamiscan.git
+https://github.com/B3an-B0i/SolamiScan.git
 cd solamiscan
 ```
 
